@@ -30,7 +30,7 @@ pip install matplotlib pandas numpy sklearn seaborn
 ```bash
 git clone <repository_url>
 cd <repository_directory>
-
+```
 
 ## Prepare Your Data:
 
